@@ -1,1 +1,2 @@
-#XD
+while True:
+    print("Hey")
